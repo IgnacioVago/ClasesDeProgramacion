@@ -1,0 +1,7 @@
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojResolveAssemblyReference.cache
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.exe
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.exe
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.exe
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb

@@ -1,0 +1,5 @@
+D:\Eventos\SolucionEventos\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.dll
+D:\Eventos\SolucionEventos\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.pdb
+D:\Eventos\SolucionEventos\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csprojResolveAssemblyReference.cache
+D:\Eventos\SolucionEventos\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.dll
+D:\Eventos\SolucionEventos\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.pdb

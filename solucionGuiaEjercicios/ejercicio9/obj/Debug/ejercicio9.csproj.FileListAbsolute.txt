@@ -1,0 +1,6 @@
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionGuiaEjercicios\ejercicio9\bin\Debug\ejercicio9.exe.config
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionGuiaEjercicios\ejercicio9\bin\Debug\ejercicio9.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionGuiaEjercicios\ejercicio9\bin\Debug\ejercicio9.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionGuiaEjercicios\ejercicio9\obj\Debug\ejercicio9.csprojResolveAssemblyReference.cache
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionGuiaEjercicios\ejercicio9\obj\Debug\ejercicio9.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionGuiaEjercicios\ejercicio9\obj\Debug\ejercicio9.pdb

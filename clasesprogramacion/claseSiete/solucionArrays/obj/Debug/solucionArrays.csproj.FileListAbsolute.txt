@@ -1,0 +1,6 @@
+D:\Pollio Juan Martin\clasesprogramacion\claseSiete\solucionArrays\bin\Debug\solucionArrays.exe.config
+D:\Pollio Juan Martin\clasesprogramacion\claseSiete\solucionArrays\bin\Debug\solucionArrays.exe
+D:\Pollio Juan Martin\clasesprogramacion\claseSiete\solucionArrays\bin\Debug\solucionArrays.pdb
+D:\Pollio Juan Martin\clasesprogramacion\claseSiete\solucionArrays\obj\Debug\solucionArrays.csprojResolveAssemblyReference.cache
+D:\Pollio Juan Martin\clasesprogramacion\claseSiete\solucionArrays\obj\Debug\solucionArrays.exe
+D:\Pollio Juan Martin\clasesprogramacion\claseSiete\solucionArrays\obj\Debug\solucionArrays.pdb

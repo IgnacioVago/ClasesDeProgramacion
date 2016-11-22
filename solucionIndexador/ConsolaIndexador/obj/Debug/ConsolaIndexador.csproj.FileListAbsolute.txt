@@ -1,0 +1,8 @@
+D:\Pollio Juan Martin\solucionIndexador\ConsolaIndexador\bin\Debug\ConsolaIndexador.exe.config
+D:\Pollio Juan Martin\solucionIndexador\ConsolaIndexador\bin\Debug\ConsolaIndexador.exe
+D:\Pollio Juan Martin\solucionIndexador\ConsolaIndexador\bin\Debug\ConsolaIndexador.pdb
+D:\Pollio Juan Martin\solucionIndexador\ConsolaIndexador\bin\Debug\Biblioteca de clases.dll
+D:\Pollio Juan Martin\solucionIndexador\ConsolaIndexador\bin\Debug\Biblioteca de clases.pdb
+D:\Pollio Juan Martin\solucionIndexador\ConsolaIndexador\obj\Debug\ConsolaIndexador.csprojResolveAssemblyReference.cache
+D:\Pollio Juan Martin\solucionIndexador\ConsolaIndexador\obj\Debug\ConsolaIndexador.exe
+D:\Pollio Juan Martin\solucionIndexador\ConsolaIndexador\obj\Debug\ConsolaIndexador.pdb

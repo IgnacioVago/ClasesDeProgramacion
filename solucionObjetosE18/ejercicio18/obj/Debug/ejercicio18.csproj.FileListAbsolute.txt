@@ -1,0 +1,12 @@
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionObjetosE18\ejercicio18\bin\Debug\ejercicio18.exe.config
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionObjetosE18\ejercicio18\bin\Debug\ejercicio18.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionObjetosE18\ejercicio18\bin\Debug\ejercicio18.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionObjetosE18\ejercicio18\obj\Debug\ejercicio18.csprojResolveAssemblyReference.cache
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionObjetosE18\ejercicio18\obj\Debug\ejercicio18.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionObjetosE18\ejercicio18\obj\Debug\ejercicio18.pdb
+D:\Pollio Juan Martin\Laboratorio II y Programación II\solucionObjetosE18\ejercicio18\bin\Debug\ejercicio18.exe.config
+D:\Pollio Juan Martin\Laboratorio II y Programación II\solucionObjetosE18\ejercicio18\obj\Debug\ejercicio18.exe
+D:\Pollio Juan Martin\Laboratorio II y Programación II\solucionObjetosE18\ejercicio18\obj\Debug\ejercicio18.pdb
+D:\Pollio Juan Martin\Laboratorio II y Programación II\solucionObjetosE18\ejercicio18\bin\Debug\ejercicio18.exe
+D:\Pollio Juan Martin\Laboratorio II y Programación II\solucionObjetosE18\ejercicio18\bin\Debug\ejercicio18.pdb
+D:\Pollio Juan Martin\Laboratorio II y Programación II\solucionObjetosE18\ejercicio18\obj\Debug\ejercicio18.csprojResolveAssemblyReference.cache

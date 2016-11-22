@@ -1,0 +1,6 @@
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionObjetosE17\ejercicio17\bin\Debug\ejercicio17.exe.config
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionObjetosE17\ejercicio17\obj\Debug\ejercicio17.csprojResolveAssemblyReference.cache
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionObjetosE17\ejercicio17\bin\Debug\ejercicio17.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionObjetosE17\ejercicio17\bin\Debug\ejercicio17.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionObjetosE17\ejercicio17\obj\Debug\ejercicio17.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionObjetosE17\ejercicio17\obj\Debug\ejercicio17.pdb

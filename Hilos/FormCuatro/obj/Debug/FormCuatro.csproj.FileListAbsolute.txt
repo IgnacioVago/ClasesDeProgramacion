@@ -1,0 +1,13 @@
+D:\Pollio Juan Martin\Hilos\FormCuatro\bin\Debug\FormCuatro.exe.config
+D:\Pollio Juan Martin\Hilos\FormCuatro\bin\Debug\FormCuatro.exe
+D:\Pollio Juan Martin\Hilos\FormCuatro\bin\Debug\FormCuatro.pdb
+D:\Pollio Juan Martin\Hilos\FormCuatro\bin\Debug\Pelotita_Con_Thread.dll
+D:\Pollio Juan Martin\Hilos\FormCuatro\bin\Debug\Pelotita_Sin_Thread.dll
+D:\Pollio Juan Martin\Hilos\FormCuatro\bin\Debug\Pelotita_Con_Thread.pdb
+D:\Pollio Juan Martin\Hilos\FormCuatro\bin\Debug\Pelotita_Sin_Thread.pdb
+D:\Pollio Juan Martin\Hilos\FormCuatro\obj\Debug\FormCuatro.csprojResolveAssemblyReference.cache
+D:\Pollio Juan Martin\Hilos\FormCuatro\obj\Debug\FormCuatro.Form1.resources
+D:\Pollio Juan Martin\Hilos\FormCuatro\obj\Debug\FormCuatro.Properties.Resources.resources
+D:\Pollio Juan Martin\Hilos\FormCuatro\obj\Debug\FormCuatro.csproj.GenerateResource.Cache
+D:\Pollio Juan Martin\Hilos\FormCuatro\obj\Debug\FormCuatro.exe
+D:\Pollio Juan Martin\Hilos\FormCuatro\obj\Debug\FormCuatro.pdb

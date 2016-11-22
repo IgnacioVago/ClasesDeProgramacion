@@ -1,0 +1,6 @@
+D:\Pollio Juan Martin\clasesprogramacion\proyectoNuevo\claseHerencia\solucionHerencia\bin\Debug\solucionHerencia.exe.config
+D:\Pollio Juan Martin\clasesprogramacion\proyectoNuevo\claseHerencia\solucionHerencia\bin\Debug\solucionHerencia.exe
+D:\Pollio Juan Martin\clasesprogramacion\proyectoNuevo\claseHerencia\solucionHerencia\bin\Debug\solucionHerencia.pdb
+D:\Pollio Juan Martin\clasesprogramacion\proyectoNuevo\claseHerencia\solucionHerencia\obj\Debug\solucionHerencia.csprojResolveAssemblyReference.cache
+D:\Pollio Juan Martin\clasesprogramacion\proyectoNuevo\claseHerencia\solucionHerencia\obj\Debug\solucionHerencia.exe
+D:\Pollio Juan Martin\clasesprogramacion\proyectoNuevo\claseHerencia\solucionHerencia\obj\Debug\solucionHerencia.pdb

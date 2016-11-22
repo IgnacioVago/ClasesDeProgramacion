@@ -1,0 +1,12 @@
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEjercicio1\ejercicio1\bin\Debug\ejercicio1.exe.config
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEjercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEjercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEjercicio1\ejercicio1\obj\Debug\ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEjercicio1\ejercicio1\obj\Debug\ejercicio1.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEjercicio1\ejercicio1\obj\Debug\ejercicio1.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionGuiaEjercicios\ejercicio1\bin\Debug\ejercicio1.exe.config
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionGuiaEjercicios\ejercicio1\bin\Debug\ejercicio1.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionGuiaEjercicios\ejercicio1\bin\Debug\ejercicio1.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionGuiaEjercicios\ejercicio1\obj\Debug\ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionGuiaEjercicios\ejercicio1\obj\Debug\ejercicio1.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionGuiaEjercicios\ejercicio1\obj\Debug\ejercicio1.pdb

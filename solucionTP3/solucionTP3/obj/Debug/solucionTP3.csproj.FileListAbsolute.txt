@@ -1,0 +1,9 @@
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionTP3\solucionTP3\bin\Debug\solucionTP3.exe.config
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionTP3\solucionTP3\bin\Debug\solucionTP3.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionTP3\solucionTP3\bin\Debug\solucionTP3.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionTP3\solucionTP3\obj\Debug\solucionTP3.csprojResolveAssemblyReference.cache
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionTP3\solucionTP3\obj\Debug\solucionTP3.Form1.resources
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionTP3\solucionTP3\obj\Debug\solucionTP3.Properties.Resources.resources
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionTP3\solucionTP3\obj\Debug\solucionTP3.csproj.GenerateResource.Cache
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionTP3\solucionTP3\obj\Debug\solucionTP3.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionTP3\solucionTP3\obj\Debug\solucionTP3.pdb

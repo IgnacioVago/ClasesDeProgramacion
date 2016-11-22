@@ -1,0 +1,9 @@
+D:\Pollio Juan Martin\Laboratorio II y Programación II\ejercicioProducto\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Pollio Juan Martin\Laboratorio II y Programación II\ejercicioProducto\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Pollio Juan Martin\Laboratorio II y Programación II\ejercicioProducto\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Pollio Juan Martin\Laboratorio II y Programación II\ejercicioProducto\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Pollio Juan Martin\Laboratorio II y Programación II\ejercicioProducto\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Pollio Juan Martin\Laboratorio II y Programación II\ejercicioProducto\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Pollio Juan Martin\Laboratorio II y Programación II\ejercicioProducto\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Pollio Juan Martin\Laboratorio II y Programación II\ejercicioProducto\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Pollio Juan Martin\Laboratorio II y Programación II\ejercicioProducto\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

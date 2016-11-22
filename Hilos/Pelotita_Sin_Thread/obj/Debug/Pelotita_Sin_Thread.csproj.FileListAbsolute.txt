@@ -1,0 +1,4 @@
+D:\Pollio Juan Martin\Hilos\Pelotita_Sin_Thread\bin\Debug\Pelotita_Sin_Thread.dll
+D:\Pollio Juan Martin\Hilos\Pelotita_Sin_Thread\bin\Debug\Pelotita_Sin_Thread.pdb
+D:\Pollio Juan Martin\Hilos\Pelotita_Sin_Thread\obj\Debug\Pelotita_Sin_Thread.dll
+D:\Pollio Juan Martin\Hilos\Pelotita_Sin_Thread\obj\Debug\Pelotita_Sin_Thread.pdb

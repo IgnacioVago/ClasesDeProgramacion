@@ -1,0 +1,6 @@
+D:\Pollio Juan Martin\primerClase\ejercicio2\obj\Debug\ejercicio2.csprojResolveAssemblyReference.cache
+D:\Pollio Juan Martin\primerClase\ejercicio2\bin\Debug\ejercicio2.exe.config
+D:\Pollio Juan Martin\primerClase\ejercicio2\bin\Debug\ejercicio2.exe
+D:\Pollio Juan Martin\primerClase\ejercicio2\bin\Debug\ejercicio2.pdb
+D:\Pollio Juan Martin\primerClase\ejercicio2\obj\Debug\ejercicio2.exe
+D:\Pollio Juan Martin\primerClase\ejercicio2\obj\Debug\ejercicio2.pdb

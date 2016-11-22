@@ -1,0 +1,6 @@
+D:\Pollio Juan Martin\solucionHabemusPapa\consolePapa\bin\Debug\consolePapa.exe.config
+D:\Pollio Juan Martin\solucionHabemusPapa\consolePapa\obj\Debug\consolePapa.csprojResolveAssemblyReference.cache
+D:\Pollio Juan Martin\solucionHabemusPapa\consolePapa\bin\Debug\consolePapa.exe
+D:\Pollio Juan Martin\solucionHabemusPapa\consolePapa\bin\Debug\consolePapa.pdb
+D:\Pollio Juan Martin\solucionHabemusPapa\consolePapa\obj\Debug\consolePapa.exe
+D:\Pollio Juan Martin\solucionHabemusPapa\consolePapa\obj\Debug\consolePapa.pdb

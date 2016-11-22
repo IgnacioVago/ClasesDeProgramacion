@@ -1,0 +1,6 @@
+D:\Pollio Juan Martin\Testeando\ConsolaTesteando\bin\Debug\ConsolaTesteando.exe.config
+D:\Pollio Juan Martin\Testeando\ConsolaTesteando\bin\Debug\ConsolaTesteando.exe
+D:\Pollio Juan Martin\Testeando\ConsolaTesteando\bin\Debug\ConsolaTesteando.pdb
+D:\Pollio Juan Martin\Testeando\ConsolaTesteando\obj\Debug\ConsolaTesteando.csprojResolveAssemblyReference.cache
+D:\Pollio Juan Martin\Testeando\ConsolaTesteando\obj\Debug\ConsolaTesteando.exe
+D:\Pollio Juan Martin\Testeando\ConsolaTesteando\obj\Debug\ConsolaTesteando.pdb

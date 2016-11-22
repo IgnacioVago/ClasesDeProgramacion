@@ -1,0 +1,5 @@
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEstatica\ejercicio14\bin\Debug\ejercicio14.exe.config
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEstatica\ejercicio14\bin\Debug\ejercicio14.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEstatica\ejercicio14\bin\Debug\ejercicio14.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEstatica\ejercicio14\obj\Debug\ejercicio14.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEstatica\ejercicio14\obj\Debug\ejercicio14.pdb

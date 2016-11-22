@@ -1,0 +1,6 @@
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionGuiaEjercicios\ejercicio5\bin\Debug\ejercicio5.exe.config
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionGuiaEjercicios\ejercicio5\bin\Debug\ejercicio5.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionGuiaEjercicios\ejercicio5\bin\Debug\ejercicio5.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionGuiaEjercicios\ejercicio5\obj\Debug\ejercicio5.csprojResolveAssemblyReference.cache
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionGuiaEjercicios\ejercicio5\obj\Debug\ejercicio5.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionGuiaEjercicios\ejercicio5\obj\Debug\ejercicio5.pdb

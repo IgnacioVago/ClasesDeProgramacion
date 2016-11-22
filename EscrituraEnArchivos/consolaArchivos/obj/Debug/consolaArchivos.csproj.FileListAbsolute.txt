@@ -1,0 +1,12 @@
+D:\Pollio Juan Martin\EscrituraEnArchivos\consolaArchivos\bin\Debug\consolaArchivos.exe.config
+D:\Pollio Juan Martin\EscrituraEnArchivos\consolaArchivos\bin\Debug\consolaArchivos.exe
+D:\Pollio Juan Martin\EscrituraEnArchivos\consolaArchivos\bin\Debug\consolaArchivos.pdb
+D:\Pollio Juan Martin\EscrituraEnArchivos\consolaArchivos\obj\Debug\consolaArchivos.csprojResolveAssemblyReference.cache
+D:\Pollio Juan Martin\EscrituraEnArchivos\consolaArchivos\obj\Debug\consolaArchivos.exe
+D:\Pollio Juan Martin\EscrituraEnArchivos\consolaArchivos\obj\Debug\consolaArchivos.pdb
+C:\Users\Juan Martin\Desktop\Facultad\EscrituraEnArchivos\consolaArchivos\bin\Debug\consolaArchivos.exe.config
+C:\Users\Juan Martin\Desktop\Facultad\EscrituraEnArchivos\consolaArchivos\bin\Debug\consolaArchivos.exe
+C:\Users\Juan Martin\Desktop\Facultad\EscrituraEnArchivos\consolaArchivos\bin\Debug\consolaArchivos.pdb
+C:\Users\Juan Martin\Desktop\Facultad\EscrituraEnArchivos\consolaArchivos\obj\Debug\consolaArchivos.csprojResolveAssemblyReference.cache
+C:\Users\Juan Martin\Desktop\Facultad\EscrituraEnArchivos\consolaArchivos\obj\Debug\consolaArchivos.exe
+C:\Users\Juan Martin\Desktop\Facultad\EscrituraEnArchivos\consolaArchivos\obj\Debug\consolaArchivos.pdb

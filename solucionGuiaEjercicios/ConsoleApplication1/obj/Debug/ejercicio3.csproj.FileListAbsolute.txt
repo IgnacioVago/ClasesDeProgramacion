@@ -1,0 +1,11 @@
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEjercicio1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEjercicio1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEjercicio1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEjercicio1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEjercicio1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionGuiaEjercicios\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionGuiaEjercicios\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionGuiaEjercicios\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionGuiaEjercicios\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionGuiaEjercicios\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionGuiaEjercicios\ConsoleApplication1\obj\Debug\ejercicio3.csprojResolveAssemblyReference.cache

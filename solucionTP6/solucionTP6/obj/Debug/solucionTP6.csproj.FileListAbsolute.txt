@@ -1,0 +1,21 @@
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionTP6\solucionTP6\bin\Debug\solucionTP6.exe.config
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionTP6\solucionTP6\bin\Debug\solucionTP6.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionTP6\solucionTP6\bin\Debug\solucionTP6.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionTP6\solucionTP6\obj\Debug\solucionTP6.csprojResolveAssemblyReference.cache
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionTP6\solucionTP6\obj\Debug\solucionTP6.Form1.resources
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionTP6\solucionTP6\obj\Debug\solucionTP6.Properties.Resources.resources
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionTP6\solucionTP6\obj\Debug\solucionTP6.csproj.GenerateResource.Cache
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionTP6\solucionTP6\obj\Debug\solucionTP6.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionTP6\solucionTP6\obj\Debug\solucionTP6.pdb
+E:\Laboratorio II y Programación II\solucionTP6\solucionTP6\bin\Debug\solucionTP6.exe.config
+E:\Laboratorio II y Programación II\solucionTP6\solucionTP6\obj\Debug\solucionTP6.exe
+E:\Laboratorio II y Programación II\solucionTP6\solucionTP6\obj\Debug\solucionTP6.pdb
+D:\Pollio Juan Martin\Laboratorio II y Programación II\solucionTP6\solucionTP6\bin\Debug\solucionTP6.exe.config
+D:\Pollio Juan Martin\Laboratorio II y Programación II\solucionTP6\solucionTP6\obj\Debug\solucionTP6.exe
+D:\Pollio Juan Martin\Laboratorio II y Programación II\solucionTP6\solucionTP6\obj\Debug\solucionTP6.pdb
+D:\Pollio Juan Martin\Laboratorio II y Programación II\solucionTP6\solucionTP6\bin\Debug\solucionTP6.exe
+D:\Pollio Juan Martin\Laboratorio II y Programación II\solucionTP6\solucionTP6\bin\Debug\solucionTP6.pdb
+D:\Pollio Juan Martin\Laboratorio II y Programación II\solucionTP6\solucionTP6\obj\Debug\solucionTP6.csprojResolveAssemblyReference.cache
+D:\Pollio Juan Martin\Laboratorio II y Programación II\solucionTP6\solucionTP6\obj\Debug\solucionTP6.adivinaNumero2.resources
+D:\Pollio Juan Martin\Laboratorio II y Programación II\solucionTP6\solucionTP6\obj\Debug\solucionTP6.Properties.Resources.resources
+D:\Pollio Juan Martin\Laboratorio II y Programación II\solucionTP6\solucionTP6\obj\Debug\solucionTP6.csproj.GenerateResource.Cache

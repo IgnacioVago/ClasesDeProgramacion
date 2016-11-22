@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralitaHerencia", "CentralitaHerencia\CentralitaHerencia.csproj", "{F3697CBA-1E61-4442-A740-9DF432EF7D30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralitaPolimorfismo", "CentralitaPolimorfismo\CentralitaPolimorfismo.csproj", "{F0B10A9E-F267-46C6-94C9-50DC9F98051C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralitaSerializacion", "CentralitaSerializacion\CentralitaSerializacion.csproj", "{6B57EFE5-E779-4D0D-8EE4-ABB223EE3807}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3697CBA-1E61-4442-A740-9DF432EF7D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3697CBA-1E61-4442-A740-9DF432EF7D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3697CBA-1E61-4442-A740-9DF432EF7D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3697CBA-1E61-4442-A740-9DF432EF7D30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0B10A9E-F267-46C6-94C9-50DC9F98051C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0B10A9E-F267-46C6-94C9-50DC9F98051C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0B10A9E-F267-46C6-94C9-50DC9F98051C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0B10A9E-F267-46C6-94C9-50DC9F98051C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B57EFE5-E779-4D0D-8EE4-ABB223EE3807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B57EFE5-E779-4D0D-8EE4-ABB223EE3807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B57EFE5-E779-4D0D-8EE4-ABB223EE3807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B57EFE5-E779-4D0D-8EE4-ABB223EE3807}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

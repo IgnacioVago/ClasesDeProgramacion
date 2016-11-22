@@ -1,0 +1,78 @@
+como se crea un constructor, cuales son los constructores correctos, que es un constructor correcto X
+
+sobrecarga de operadores (explicito/implicito)
+
+arrays (crear y recorrer)
+
+metodo de instancia, metodo estatico, utilizacion del this X
+
+constructores estaticos X
+
+propiedades (lectura/escritura) X
+
+diferencias/igualdades (EJ: metodos instancia/estatico X, clase/objeto X, constructor clase/instancia X)
+
+error de codigo
+
+____________________________________________________________
+
+objeto = es un agregado de datos y de métodos que permiten manipular dichosdatos, y un programa en C# no es más que un conjunto de objetos que interaccionan unos con otros através de sus métodos.
+
+clase = es la definición de las características concretas de un determinado tipo de objetos, de cuáles son los datos y los métodos de los que van a disponer todos los objetos de ese tipo.
+
+this = referencia a la instancia actual de un objeto
+new = crea nuevas instancias de una clase o una estructura
+
+get = retorna el valor de un atributo
+set = establece un valor al atributo a traves de value
+
+public string FullName
+{
+   get
+   {
+      return this.name;
+   }
+   set
+   {
+      this.name = value;
+   }
+}
+
+metodo, definicion: nn método es un bloque de código que contiene una serie de instrucciones, un programa hace que se ejecuten las instrucciones al llamar al método y especificando los argumentos de método necesarios.
+
+metodo de instancia:
+
+-cuando se declara un metodo sin utilizar la palabra reservada static se genera un metodo de instancia
+-cada objeto creado a partir de la clase donde este el metodo, tendra la oportunidad de utilizarlo cuando quiera
+-cuando se llama un metodo de instancia, se modifican las variables/atributos del objeto, no de la clase
+
+declaracion:
+
+objetoCreado.metodoDeInstancia();
+
+metodo de clase:
+
+-cuando se usa la palabra static para declarar un metodo, se genera un metodo de clase o estatico
+-se puede hacer una llamada a un metodo de clase sin instanciar ningun objeto
+-operan unicamente con las variables de la clase, no tienen acceso a las variables de instancia de la clase
+
+declaracion:
+
+Clase.metodoDeClase();
+
+constructores de instacia:
+
+-el nombre del constructor debe ser el mismo nombre que el de la clase
+-no tienen un tipo de retorno
+-si no se especifica, se crea uno por defecto
+-pueden sobrecargarse y pueden llamar a otros constructores dentro de la misma clase o en una super-clase
+-se ejecutan una unica vez y son los primeros metodos en ejecutarse
+-tiene por objetivo inicializar atributos
+
+constructores estaticos:
+
+-no puede tener parametros
+-no puede tener modificadores de acceso
+-no puede ser llamado explicitamente
+-es llamado una sola vez, antes de crear la primera instancia
+

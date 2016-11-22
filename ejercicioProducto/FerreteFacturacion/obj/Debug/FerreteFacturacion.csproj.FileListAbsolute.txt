@@ -1,0 +1,9 @@
+D:\Pollio Juan Martin\Laboratorio II y Programación II\ejercicioProducto\FerreteFacturacion\bin\Debug\FerreteFacturacion.exe.config
+D:\Pollio Juan Martin\Laboratorio II y Programación II\ejercicioProducto\FerreteFacturacion\bin\Debug\FerreteFacturacion.exe
+D:\Pollio Juan Martin\Laboratorio II y Programación II\ejercicioProducto\FerreteFacturacion\bin\Debug\FerreteFacturacion.pdb
+D:\Pollio Juan Martin\Laboratorio II y Programación II\ejercicioProducto\FerreteFacturacion\obj\Debug\FerreteFacturacion.csprojResolveAssemblyReference.cache
+D:\Pollio Juan Martin\Laboratorio II y Programación II\ejercicioProducto\FerreteFacturacion\obj\Debug\FerreteFacturacion.Form1.resources
+D:\Pollio Juan Martin\Laboratorio II y Programación II\ejercicioProducto\FerreteFacturacion\obj\Debug\FerreteFacturacion.Properties.Resources.resources
+D:\Pollio Juan Martin\Laboratorio II y Programación II\ejercicioProducto\FerreteFacturacion\obj\Debug\FerreteFacturacion.csproj.GenerateResource.Cache
+D:\Pollio Juan Martin\Laboratorio II y Programación II\ejercicioProducto\FerreteFacturacion\obj\Debug\FerreteFacturacion.exe
+D:\Pollio Juan Martin\Laboratorio II y Programación II\ejercicioProducto\FerreteFacturacion\obj\Debug\FerreteFacturacion.pdb

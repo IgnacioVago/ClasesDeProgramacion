@@ -1,0 +1,5 @@
+D:\Pollio Juan Martin\solucionIndexador\Biblioteca de clases\bin\Debug\Biblioteca de clases.dll
+D:\Pollio Juan Martin\solucionIndexador\Biblioteca de clases\bin\Debug\Biblioteca de clases.pdb
+D:\Pollio Juan Martin\solucionIndexador\Biblioteca de clases\obj\Debug\Biblioteca de clases.csprojResolveAssemblyReference.cache
+D:\Pollio Juan Martin\solucionIndexador\Biblioteca de clases\obj\Debug\Biblioteca de clases.dll
+D:\Pollio Juan Martin\solucionIndexador\Biblioteca de clases\obj\Debug\Biblioteca de clases.pdb

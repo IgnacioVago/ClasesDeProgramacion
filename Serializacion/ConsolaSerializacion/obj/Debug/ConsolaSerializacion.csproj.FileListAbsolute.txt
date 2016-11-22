@@ -1,0 +1,8 @@
+D:\Pollio Juan Martin\Serializacion\ConsolaSerializacion\bin\Debug\ConsolaSerializacion.exe
+D:\Pollio Juan Martin\Serializacion\ConsolaSerializacion\bin\Debug\ConsolaSerializacion.pdb
+D:\Pollio Juan Martin\Serializacion\ConsolaSerializacion\obj\Debug\ConsolaSerializacion.csprojResolveAssemblyReference.cache
+D:\Pollio Juan Martin\Serializacion\ConsolaSerializacion\obj\Debug\ConsolaSerializacion.exe
+D:\Pollio Juan Martin\Serializacion\ConsolaSerializacion\obj\Debug\ConsolaSerializacion.pdb
+E:\Serializacion\ConsolaSerializacion\obj\Debug\ConsolaSerializacion.exe
+E:\Serializacion\ConsolaSerializacion\obj\Debug\ConsolaSerializacion.pdb
+E:\Serializacion\ConsolaSerializacion\obj\Debug\ConsolaSerializacion.csprojResolveAssemblyReference.cache

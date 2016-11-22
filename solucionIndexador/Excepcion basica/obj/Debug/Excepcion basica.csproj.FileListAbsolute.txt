@@ -1,0 +1,6 @@
+D:\Pollio Juan Martin\solucionIndexador\Excepcion basica\bin\Debug\Excepcion basica.exe.config
+D:\Pollio Juan Martin\solucionIndexador\Excepcion basica\bin\Debug\Excepcion basica.exe
+D:\Pollio Juan Martin\solucionIndexador\Excepcion basica\bin\Debug\Excepcion basica.pdb
+D:\Pollio Juan Martin\solucionIndexador\Excepcion basica\obj\Debug\Excepcion basica.csprojResolveAssemblyReference.cache
+D:\Pollio Juan Martin\solucionIndexador\Excepcion basica\obj\Debug\Excepcion basica.exe
+D:\Pollio Juan Martin\solucionIndexador\Excepcion basica\obj\Debug\Excepcion basica.pdb

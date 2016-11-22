@@ -1,0 +1,6 @@
+D:\Pollio Juan Martin\solucionAbstraccion\ConsolaAbstraccion\bin\Debug\ConsolaAbstraccion.exe.config
+D:\Pollio Juan Martin\solucionAbstraccion\ConsolaAbstraccion\bin\Debug\ConsolaAbstraccion.exe
+D:\Pollio Juan Martin\solucionAbstraccion\ConsolaAbstraccion\bin\Debug\ConsolaAbstraccion.pdb
+D:\Pollio Juan Martin\solucionAbstraccion\ConsolaAbstraccion\obj\Debug\ConsolaAbstraccion.exe
+D:\Pollio Juan Martin\solucionAbstraccion\ConsolaAbstraccion\obj\Debug\ConsolaAbstraccion.pdb
+D:\Pollio Juan Martin\solucionAbstraccion\ConsolaAbstraccion\obj\Debug\ConsolaAbstraccion.csprojResolveAssemblyReference.cache

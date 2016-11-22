@@ -1,0 +1,22 @@
+D:\Pollio Juan Martin\EscrituraEnArchivos\UIGuardador\bin\Debug\UIGuardador.exe.config
+D:\Pollio Juan Martin\EscrituraEnArchivos\UIGuardador\bin\Debug\UIGuardador.exe
+D:\Pollio Juan Martin\EscrituraEnArchivos\UIGuardador\bin\Debug\UIGuardador.pdb
+D:\Pollio Juan Martin\EscrituraEnArchivos\UIGuardador\bin\Debug\consolaArchivos.exe
+D:\Pollio Juan Martin\EscrituraEnArchivos\UIGuardador\bin\Debug\consolaArchivos.pdb
+D:\Pollio Juan Martin\EscrituraEnArchivos\UIGuardador\obj\Debug\UIGuardador.csprojResolveAssemblyReference.cache
+D:\Pollio Juan Martin\EscrituraEnArchivos\UIGuardador\obj\Debug\UIGuardador.Form1.resources
+D:\Pollio Juan Martin\EscrituraEnArchivos\UIGuardador\obj\Debug\UIGuardador.Properties.Resources.resources
+D:\Pollio Juan Martin\EscrituraEnArchivos\UIGuardador\obj\Debug\UIGuardador.csproj.GenerateResource.Cache
+D:\Pollio Juan Martin\EscrituraEnArchivos\UIGuardador\obj\Debug\UIGuardador.exe
+D:\Pollio Juan Martin\EscrituraEnArchivos\UIGuardador\obj\Debug\UIGuardador.pdb
+C:\Users\Juan Martin\Desktop\Facultad\EscrituraEnArchivos\UIGuardador\bin\Debug\UIGuardador.exe.config
+C:\Users\Juan Martin\Desktop\Facultad\EscrituraEnArchivos\UIGuardador\obj\Debug\UIGuardador.exe
+C:\Users\Juan Martin\Desktop\Facultad\EscrituraEnArchivos\UIGuardador\obj\Debug\UIGuardador.pdb
+C:\Users\Juan Martin\Desktop\Facultad\EscrituraEnArchivos\UIGuardador\bin\Debug\UIGuardador.exe
+C:\Users\Juan Martin\Desktop\Facultad\EscrituraEnArchivos\UIGuardador\bin\Debug\UIGuardador.pdb
+C:\Users\Juan Martin\Desktop\Facultad\EscrituraEnArchivos\UIGuardador\bin\Debug\consolaArchivos.exe
+C:\Users\Juan Martin\Desktop\Facultad\EscrituraEnArchivos\UIGuardador\bin\Debug\consolaArchivos.pdb
+C:\Users\Juan Martin\Desktop\Facultad\EscrituraEnArchivos\UIGuardador\obj\Debug\UIGuardador.csprojResolveAssemblyReference.cache
+C:\Users\Juan Martin\Desktop\Facultad\EscrituraEnArchivos\UIGuardador\obj\Debug\UIGuardador.Form1.resources
+C:\Users\Juan Martin\Desktop\Facultad\EscrituraEnArchivos\UIGuardador\obj\Debug\UIGuardador.Properties.Resources.resources
+C:\Users\Juan Martin\Desktop\Facultad\EscrituraEnArchivos\UIGuardador\obj\Debug\UIGuardador.csproj.GenerateResource.Cache

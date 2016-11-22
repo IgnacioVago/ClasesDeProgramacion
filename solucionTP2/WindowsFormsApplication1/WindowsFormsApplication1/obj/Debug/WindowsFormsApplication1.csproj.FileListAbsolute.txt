@@ -1,0 +1,9 @@
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.tpDos.resources
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

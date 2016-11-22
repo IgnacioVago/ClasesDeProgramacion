@@ -1,0 +1,6 @@
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEjercicio47\Ejercicio47\bin\Debug\Ejercicio47.exe.config
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEjercicio47\Ejercicio47\obj\Debug\Ejercicio47.csprojResolveAssemblyReference.cache
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEjercicio47\Ejercicio47\bin\Debug\Ejercicio47.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEjercicio47\Ejercicio47\bin\Debug\Ejercicio47.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEjercicio47\Ejercicio47\obj\Debug\Ejercicio47.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEjercicio47\Ejercicio47\obj\Debug\Ejercicio47.pdb

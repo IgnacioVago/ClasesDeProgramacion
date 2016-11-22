@@ -1,0 +1,9 @@
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionTP5\solucionTP5\bin\Debug\solucionTP5.exe.config
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionTP5\solucionTP5\bin\Debug\solucionTP5.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionTP5\solucionTP5\bin\Debug\solucionTP5.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionTP5\solucionTP5\obj\Debug\solucionTP5.csprojResolveAssemblyReference.cache
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionTP5\solucionTP5\obj\Debug\solucionTP5.Form1.resources
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionTP5\solucionTP5\obj\Debug\solucionTP5.Properties.Resources.resources
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionTP5\solucionTP5\obj\Debug\solucionTP5.csproj.GenerateResource.Cache
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionTP5\solucionTP5\obj\Debug\solucionTP5.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionTP5\solucionTP5\obj\Debug\solucionTP5.pdb

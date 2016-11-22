@@ -1,0 +1,6 @@
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEstatica\ejercicio12\bin\Debug\ejercicio12.exe.config
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEstatica\ejercicio12\bin\Debug\ejercicio12.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEstatica\ejercicio12\bin\Debug\ejercicio12.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEstatica\ejercicio12\obj\Debug\ejercicio12.csprojResolveAssemblyReference.cache
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEstatica\ejercicio12\obj\Debug\ejercicio12.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEstatica\ejercicio12\obj\Debug\ejercicio12.pdb

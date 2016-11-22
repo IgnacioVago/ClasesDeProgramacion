@@ -1,0 +1,13 @@
+D:\Pollio Juan Martin\Hilos\FormTres\bin\Debug\FormTres.exe.config
+D:\Pollio Juan Martin\Hilos\FormTres\bin\Debug\FormTres.exe
+D:\Pollio Juan Martin\Hilos\FormTres\bin\Debug\FormTres.pdb
+D:\Pollio Juan Martin\Hilos\FormTres\bin\Debug\Pelotita_Con_Thread.dll
+D:\Pollio Juan Martin\Hilos\FormTres\bin\Debug\Pelotita_Sin_Thread.dll
+D:\Pollio Juan Martin\Hilos\FormTres\bin\Debug\Pelotita_Con_Thread.pdb
+D:\Pollio Juan Martin\Hilos\FormTres\bin\Debug\Pelotita_Sin_Thread.pdb
+D:\Pollio Juan Martin\Hilos\FormTres\obj\Debug\FormTres.csprojResolveAssemblyReference.cache
+D:\Pollio Juan Martin\Hilos\FormTres\obj\Debug\FormTres.Form1.resources
+D:\Pollio Juan Martin\Hilos\FormTres\obj\Debug\FormTres.Properties.Resources.resources
+D:\Pollio Juan Martin\Hilos\FormTres\obj\Debug\FormTres.csproj.GenerateResource.Cache
+D:\Pollio Juan Martin\Hilos\FormTres\obj\Debug\FormTres.exe
+D:\Pollio Juan Martin\Hilos\FormTres\obj\Debug\FormTres.pdb

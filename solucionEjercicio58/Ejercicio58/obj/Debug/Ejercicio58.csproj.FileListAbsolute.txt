@@ -1,0 +1,5 @@
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEjercicio58\Ejercicio58\bin\Debug\Ejercicio58.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEjercicio58\Ejercicio58\bin\Debug\Ejercicio58.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEjercicio58\Ejercicio58\obj\Debug\Ejercicio58.csprojResolveAssemblyReference.cache
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEjercicio58\Ejercicio58\obj\Debug\Ejercicio58.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEjercicio58\Ejercicio58\obj\Debug\Ejercicio58.pdb

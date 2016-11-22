@@ -1,0 +1,6 @@
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEjercicio1\ejercicio2\bin\Debug\ejercicio2.exe.config
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEjercicio1\ejercicio2\bin\Debug\ejercicio2.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEjercicio1\ejercicio2\bin\Debug\ejercicio2.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEjercicio1\ejercicio2\obj\Debug\ejercicio2.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEjercicio1\ejercicio2\obj\Debug\ejercicio2.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionEjercicio1\ejercicio2\obj\Debug\ejercicio2.csprojResolveAssemblyReference.cache

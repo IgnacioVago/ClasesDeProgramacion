@@ -1,0 +1,6 @@
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionObjetosE19\ejercicio19\bin\Debug\ejercicio19.exe.config
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionObjetosE19\ejercicio19\bin\Debug\ejercicio19.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionObjetosE19\ejercicio19\bin\Debug\ejercicio19.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionObjetosE19\ejercicio19\obj\Debug\ejercicio19.csprojResolveAssemblyReference.cache
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionObjetosE19\ejercicio19\obj\Debug\ejercicio19.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\solucionObjetosE19\ejercicio19\obj\Debug\ejercicio19.pdb

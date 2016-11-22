@@ -1,0 +1,11 @@
+D:\Eventos\SolucionEventos\UIEventos\bin\Debug\UIEventos.exe.config
+D:\Eventos\SolucionEventos\UIEventos\bin\Debug\UIEventos.exe
+D:\Eventos\SolucionEventos\UIEventos\bin\Debug\UIEventos.pdb
+D:\Eventos\SolucionEventos\UIEventos\obj\Debug\UIEventos.csprojResolveAssemblyReference.cache
+D:\Eventos\SolucionEventos\UIEventos\obj\Debug\UIEventos.Form1.resources
+D:\Eventos\SolucionEventos\UIEventos\obj\Debug\UIEventos.Properties.Resources.resources
+D:\Eventos\SolucionEventos\UIEventos\obj\Debug\UIEventos.csproj.GenerateResource.Cache
+D:\Eventos\SolucionEventos\UIEventos\obj\Debug\UIEventos.exe
+D:\Eventos\SolucionEventos\UIEventos\obj\Debug\UIEventos.pdb
+D:\Eventos\SolucionEventos\UIEventos\bin\Debug\BibliotecaDeClases.dll
+D:\Eventos\SolucionEventos\UIEventos\bin\Debug\BibliotecaDeClases.pdb

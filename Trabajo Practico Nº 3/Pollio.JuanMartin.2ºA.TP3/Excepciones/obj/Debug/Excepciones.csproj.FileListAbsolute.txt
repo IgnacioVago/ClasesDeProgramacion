@@ -1,0 +1,5 @@
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\Excepciones\bin\Debug\Excepciones.exe
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\Excepciones\obj\Debug\Excepciones.exe
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\Excepciones\obj\Debug\Excepciones.pdb

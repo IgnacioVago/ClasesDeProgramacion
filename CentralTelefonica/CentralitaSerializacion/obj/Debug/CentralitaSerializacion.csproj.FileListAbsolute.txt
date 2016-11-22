@@ -1,0 +1,10 @@
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\CentralTelefonica\CentralitaSerializacion\obj\Debug\CentralitaSerializacion.csprojResolveAssemblyReference.cache
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\CentralTelefonica\CentralitaSerializacion\bin\Debug\CentralitaSerializacion.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\CentralTelefonica\CentralitaSerializacion\bin\Debug\CentralitaSerializacion.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\CentralTelefonica\CentralitaSerializacion\obj\Debug\CentralitaSerializacion.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\CentralTelefonica\CentralitaSerializacion\obj\Debug\CentralitaSerializacion.pdb
+D:\Pollio Juan Martin\CentralTelefonica\CentralitaSerializacion\obj\Debug\CentralitaSerializacion.exe
+D:\Pollio Juan Martin\CentralTelefonica\CentralitaSerializacion\obj\Debug\CentralitaSerializacion.pdb
+D:\Pollio Juan Martin\CentralTelefonica\CentralitaSerializacion\bin\Debug\CentralitaSerializacion.exe
+D:\Pollio Juan Martin\CentralTelefonica\CentralitaSerializacion\bin\Debug\CentralitaSerializacion.pdb
+D:\Pollio Juan Martin\CentralTelefonica\CentralitaSerializacion\obj\Debug\CentralitaSerializacion.csprojResolveAssemblyReference.cache
