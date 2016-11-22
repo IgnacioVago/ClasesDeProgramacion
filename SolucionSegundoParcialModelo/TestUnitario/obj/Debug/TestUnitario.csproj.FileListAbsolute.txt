@@ -1,0 +1,7 @@
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\SolucionSegundoParcialModelo\TestUnitario\bin\Debug\TestUnitario.dll
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\SolucionSegundoParcialModelo\TestUnitario\bin\Debug\TestUnitario.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\SolucionSegundoParcialModelo\TestUnitario\bin\Debug\Entidades.dll
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\SolucionSegundoParcialModelo\TestUnitario\bin\Debug\Entidades.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\SolucionSegundoParcialModelo\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\SolucionSegundoParcialModelo\TestUnitario\obj\Debug\TestUnitario.dll
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\SolucionSegundoParcialModelo\TestUnitario\obj\Debug\TestUnitario.pdb

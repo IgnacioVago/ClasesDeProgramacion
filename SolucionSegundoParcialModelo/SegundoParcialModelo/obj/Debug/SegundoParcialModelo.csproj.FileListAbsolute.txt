@@ -1,0 +1,10 @@
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\SolucionSegundoParcialModelo\SegundoParcialModelo\bin\Debug\SegundoParcialModelo.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\SolucionSegundoParcialModelo\SegundoParcialModelo\bin\Debug\SegundoParcialModelo.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\SolucionSegundoParcialModelo\SegundoParcialModelo\bin\Debug\Entidades.dll
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\SolucionSegundoParcialModelo\SegundoParcialModelo\bin\Debug\Entidades.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\SolucionSegundoParcialModelo\SegundoParcialModelo\obj\Debug\SegundoParcialModelo.csprojResolveAssemblyReference.cache
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\SolucionSegundoParcialModelo\SegundoParcialModelo\obj\Debug\SegundoParcialModelo.frmEsqueleto.resources
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\SolucionSegundoParcialModelo\SegundoParcialModelo\obj\Debug\SegundoParcialModelo.Properties.Resources.resources
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\SolucionSegundoParcialModelo\SegundoParcialModelo\obj\Debug\SegundoParcialModelo.csproj.GenerateResource.Cache
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\SolucionSegundoParcialModelo\SegundoParcialModelo\obj\Debug\SegundoParcialModelo.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\SolucionSegundoParcialModelo\SegundoParcialModelo\obj\Debug\SegundoParcialModelo.pdb
